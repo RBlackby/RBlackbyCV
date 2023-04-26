@@ -1,4 +1,4 @@
-# Hello to my CV#
+# Hello to my CV #
 ## From CR to the entire world ##
 
 🌍 San José, CR
