@@ -29,3 +29,5 @@ I am interested on improve my own capabilities on programming. I love those topi
 | alias c='clear'  | c  | Clear all screen |
 | alias gh='~' | gh | Go to home root |
 | alias yep='sudo apt install $1' | yep | Install like a sudo |
+
+### Find me on GitHub: [https://github.com/RBlackby]
