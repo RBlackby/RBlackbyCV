@@ -24,8 +24,8 @@ I am interested on improve my own capabilities on programming. I love those topi
 
 ### USEFUL ALIAS COMMANDS ### 
 
-|ALIAS CONFIG | COMMAND | USE |
+|ALIAS CONFIG | COMMAND | USES |
 | ------ | ------ | ------ |
 | alias c='clear'  | c  | Clear all screen |
-| alias gh='~' |gh| Go to home root |
+| alias gh='~' | gh | Go to home root |
 | alias yep='sudo apt install $1' | yep | Install like a sudo |
